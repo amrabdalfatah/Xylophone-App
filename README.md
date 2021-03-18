@@ -1,6 +1,9 @@
+
 # xylophone_flutter
 
-A new Flutter application.
+Play note for Music App 
+
+![app](https://user-images.githubusercontent.com/44507236/111548265-1d7b0880-8783-11eb-8aaf-24e0b7e53750.jpeg)
 
 ## Getting Started
 
