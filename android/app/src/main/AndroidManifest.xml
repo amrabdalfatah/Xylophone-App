@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.amrabdalfatah.xylophone_flutter">
    <application
-        android:label="xylophone_flutter"
+        android:label="Xylophone Music"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
